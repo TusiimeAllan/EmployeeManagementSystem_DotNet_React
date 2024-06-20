@@ -4,6 +4,9 @@
 
 The Employee Management System is a web application designed to manage and track employee information effectively. This application provides functionalities to register users, login with authentication, manage employees' data, update, and delete employee records, and export the data in a CSV format.
 
+## Walkthrough using Loom
+https://www.loom.com/share/a538ce66d0494762a449cc8698fda44b?sid=06f533e5-6c71-4795-97e3-56ea0cdb2056
+
 ## Features
 
 1. **User Authentication:**

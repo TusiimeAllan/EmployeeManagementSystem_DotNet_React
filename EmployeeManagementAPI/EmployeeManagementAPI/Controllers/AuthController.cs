@@ -66,7 +66,7 @@ namespace EmployeeManagementAPI.Controllers
             var userId = user.Id;
             await _context.SaveChangesAsync();
 
-            return Ok(new { userId, message = "Registered Successfully" });
+            return Ok(new { message = "Registered Successfully" });
         }
 
 
